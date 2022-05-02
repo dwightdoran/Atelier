@@ -18,8 +18,8 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      item_id: Math.floor(Math.random() * (60563 - 59553 + 1)) + 59553,
-      //item_id: 59557,
+      // item_id: Math.floor(Math.random() * (60563 - 59553 + 1)) + 59553,
+      item_id: 64620,
       myOutfit: [],
       darkmode: false
     };
@@ -69,25 +69,11 @@ class App extends React.Component {
               render={sendMetrics}/>
             }} />
           </div>
-          <div>
-            <ClickTracker render={sendMetrics => {
-              return <QA itemid={this.state.item_id} render={sendMetrics} />
-            }} />
-          </div>
-          <div>
-            <ClickTracker render={sendMetrics => {
-              return <Ratings item_id={this.state.item_id} render={sendMetrics} />
-            }} />
-          </div>
+
+
         </div>
-        <div>
-          <RelatedItems
-            itemId={this.state.item_id}
-            changeProduct={this.changeProduct} />
-        </div>
-        <div>
-          <Outfits itemId={this.state.item_id} />
-        </div>
+
+
       </div>
     );
   }

@@ -4,7 +4,7 @@ const TerserPlugin = require("terser-webpack-plugin");
 const ImageminPlugin = require('imagemin-webpack-plugin').default;
 
 module.exports = {
-  mode: 'production',
+  mode: 'development',
   entry: path.join(__dirname, '/client/src/index.jsx'),
   output: {
     filename: 'main.js',

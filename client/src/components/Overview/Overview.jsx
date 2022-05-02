@@ -37,12 +37,12 @@ class Overview extends React.Component {
 
   grabStylesData = async () => {
     await axios.get(`products/${this.props.itemid}/styles`)
-      .then((result) => {
-        this.setState({
-          styleData : result.data.results,
-          photo: result.data.results[0].photos[0].url,
-          numberOfPhotos: result.data.results[0].photos.map(style => style.photos).length
-        });
+    .then((result) => {
+      this.setState({
+        styleData : result.data.results,
+        photo: result.data.results[0].photos[0].url,
+        numberOfPhotos: result.data.results[0].photos.map(style => style.photos).length
+      });
       })
       .catch((err) => {
         console.error(err.message);
