@@ -17,6 +17,33 @@ FEC Atelier runs and is tested on `Chrome`, `Firefox`, `Edge`, and `Safari` brow
 
 ## Features
 ### Product Overview
+
+#### Main Gallery and Zoom modal display
+
+Shows the product main image and image gallery on the left
+Clicking on the main image brings up a modal of the image and clicking again brings up a 150% zoom modal
+
+<img width="1000" alt="atelier_productinfo" src="https://user-images.githubusercontent.com/76177775/166961206-4b43a1b1-bed5-4ca3-aace-84d576339171.gif">
+
+#### Product Information Section
+
+Show the selected product main information. 
+
+<img width="1000" alt="atelier_productinfo" src="https://user-images.githubusercontent.com/76177775/166962354-96848d43-7473-4576-9821-e1d29623319f.png">
+
+
+#### Styles Selector
+
+List of images for different styles of the selected product
+
+<img width="1000" alt="style" src="https://user-images.githubusercontent.com/76177775/166963606-197a362a-c124-472f-857e-e5cfeb7563d4.gif">
+
+#### Add to Cart
+
+Allows user to add selected size and quantity of product to their cart
+
+![here]()
+
 ### Related Items \& Outfit Creation
 
 ### Questions \& Answers
