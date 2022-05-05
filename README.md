@@ -4,6 +4,15 @@
 It offers functionality for `product overviews`, `related items & outfit creation`, `questions & answers`, and `ratings & reviews`.
 FEC Atelier runs and is tested on `Chrome`, `Firefox`, `Edge`, and `Safari` browsers.
 
+Technologies used...
+<p>
+<img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E??style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=react&logoColor=black" />
+<img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933??style=for-the-badge&logo=node.js&logoColor=black" />
+<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325??style=for-the-badge&logo=jest&logoColor=black" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E??style=for-the-badge&logo=amazon aws&logoColor=black" />
+<p/>
+
 ## Table of Contents
 - [Product Overview](#product-overview)
 - [Related Items \& Outfit Creation](#related-items--outfit-creation)
