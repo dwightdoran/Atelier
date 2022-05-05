@@ -110,7 +110,34 @@ API Documentation:
 - [Filestack](https://www.filestack.com/docs/?utm_source=adwords&utm_medium=site%20link%20extentions&utm_campaign=filestack%20campaign%201&placement=7A-Brand&utm_matchtype=p&utm_term=filestack&utm_campaign=7A-Brand&utm_source=google&utm_medium=cpc&utm_content=c&hsa_acc=7530412573&hsa_cam=1686626358&hsa_grp=65763901596&hsa_ad=532328339954&hsa_src=g&hsa_tgt=kwd-342603650532&hsa_kw=filestack&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAraSPBhDuARIsAM3Js4r2XAIOxi-2xe5_tsHPKhvRslxr_GOV2RNhC5IQDLrmWvzRXa9dEeoaAkNKEALw_wcB)
 
 ## Team Members
-- Dwight Doran - Product Overview Lead
-- Jarrod Miller - Related Items & Outfit Creation Lead
-- Dominic Monares - Questions & Answers Lead
-- Rob Stafford - Ratings & Reviews Lead
+<div>
+  - Dwight Doran - Product Overview Lead 
+    <a href="https://www.linkedin.com/in/dwightdoran">
+      <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a/>
+<div/>
+      
+<div>
+  - Jarrod Miller - Related Items & Outfit Creation Lead
+    <a href="https://www.linkedin.com/">
+      <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a/>
+<div/>
+      
+<div>
+  - Dominic Monares - Questions & Answers Lead 
+    <a href="https://www.linkedin.com/in/dominic-monares/">
+      <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a/>
+<div/>
+      
+<div>
+  - Rob Stafford - Ratings & Reviews Lead
+    <a href="https://www.linkedin.com/in/rob-stafford-dev/">
+      <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a/>
+<div/>
+  
+
+
+
