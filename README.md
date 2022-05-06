@@ -4,14 +4,22 @@
 It offers functionality for `product overviews`, `related items & outfit creation`, `questions & answers`, and `ratings & reviews`.
 FEC Atelier runs and is tested on `Chrome`, `Firefox`, `Edge`, and `Safari` browsers.
 
-Technologies used...
+Technologies we used...
 <p>
-<img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E??style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=react&logoColor=black" />
-<img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933??style=for-the-badge&logo=node.js&logoColor=black" />
-<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325??style=for-the-badge&logo=jest&logoColor=black" />
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E??style=for-the-badge&logo=amazon aws&logoColor=black" />
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <p/>
+
+## Team Members (Alphabetical)
+| Engineer | Titile | Linked In | Github |
+|:--------:|:------:|:----------:|:-----:|
+|Dominic Monares| Questions & Answers Lead | <a href="https://www.linkedin.com/in/dominic-monares/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>|<a href="https://github.com/DominicMonares"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>|
+|Dwight Doran| Product Overview Lead | <a href="https://www.linkedin.com/in/dwightdoran"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>|<a href="https://github.com/dwightdoran"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>|
+|Jarrod Miller|Related Items & Outfit Creation Lead|<a href="https://www.linkedin.com/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>|<a href="https://github.com/mechanicDev"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>|
+|Rob Stafford|Ratings & Reviews Lead|<a href="https://www.linkedin.com/in/rob-stafford-dev/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>|<a href="https://github.com/RobStafford"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>|
 
 ## Table of Contents
 - [Product Overview](#product-overview)
@@ -27,12 +35,10 @@ Technologies used...
 ## Features
 ---
 ### Product Overview
-<div>
-   Dwight Doran - Product Overview Lead 
-    <a href="https://www.linkedin.com/in/dwightdoran">
-      <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a/>
-<div/>
+  
+| Engineer | Titile | Linked In | Github |
+|:--------:|:------:|:----------:|:-----:|
+|Dwight Doran| Product Overview Lead | <a href="https://www.linkedin.com/in/dwightdoran"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>|<a href="https://github.com/dwightdoran"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>|
 
 #### Main Gallery and Zoom modal display
 > Shows the product main image and image gallery on the left 
@@ -53,10 +59,23 @@ Technologies used...
 Allows user to add selected size and quantity of product to their cart
 
 ![here]()
+ 
+ ---
 
 ### Related Items \& Outfit Creation
-
+  
+| Engineer | Titile | Linked In | Github |
+|:--------:|:------:|:----------:|:-----:|
+|Jarrod Miller|Related Items & Outfit Creation Lead|<a href="https://www.linkedin.com/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>|<a href="https://github.com/mechanicDev"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>|
+  
+  ---
+  
 ### Questions \& Answers
+  
+| Engineer | Titile | Linked In | Github |
+|:--------:|:------:|:----------:|:-----:|
+|Dominic Monares| Questions & Answers Lead | <a href="https://www.linkedin.com/in/dominic-monares/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>|<a href="https://github.com/DominicMonares"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>|
+  
 #### Q\&A View
 Displays two questions, with two answers per question, on page load.
 
@@ -87,7 +106,13 @@ Add an answer to the database.
 ![Answer](https://drive.google.com/uc?export=view&id=1LkMb2b05VVyJQh7DgOfqzIw3qB5H4OMP)
 
 ### Ratings \& Reviews
-
+  
+  ---
+  
+| Engineer | Titile | Linked In | Github |
+|:--------:|:------:|:----------:|:-----:|
+|Rob Stafford|Ratings & Reviews Lead|<a href="https://www.linkedin.com/in/rob-stafford-dev/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>|<a href="https://github.com/RobStafford"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>|
+  
 ## Installation
 ```
 npm install
@@ -119,34 +144,9 @@ API Documentation:
 - [Interactions](https://learn-2.galvanize.com/cohorts/2844/blocks/94/content_files/Front%20End%20Capstone/project-atelier/interactions.md)
 - [Filestack](https://www.filestack.com/docs/?utm_source=adwords&utm_medium=site%20link%20extentions&utm_campaign=filestack%20campaign%201&placement=7A-Brand&utm_matchtype=p&utm_term=filestack&utm_campaign=7A-Brand&utm_source=google&utm_medium=cpc&utm_content=c&hsa_acc=7530412573&hsa_cam=1686626358&hsa_grp=65763901596&hsa_ad=532328339954&hsa_src=g&hsa_tgt=kwd-342603650532&hsa_kw=filestack&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAraSPBhDuARIsAM3Js4r2XAIOxi-2xe5_tsHPKhvRslxr_GOV2RNhC5IQDLrmWvzRXa9dEeoaAkNKEALw_wcB)
 
-## Team Members
-<div>
-  - Dwight Doran - Product Overview Lead 
-    <a href="https://www.linkedin.com/in/dwightdoran">
-      <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a/>
-<div/>
+
       
-<div>
-  - Jarrod Miller - Related Items & Outfit Creation Lead
-    <a href="https://www.linkedin.com/">
-      <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a/>
-<div/>
       
-<div>
-  - Dominic Monares - Questions & Answers Lead 
-    <a href="https://www.linkedin.com/in/dominic-monares/">
-      <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a/>
-<div/>
-      
-<div>
-  - Rob Stafford - Ratings & Reviews Lead
-    <a href="https://www.linkedin.com/in/rob-stafford-dev/">
-      <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a/>
-<div/>
   
 
 
